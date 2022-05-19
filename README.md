@@ -17,7 +17,9 @@
   <img align="center" alt="Rafa-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">   
   <img align="center" alt="Rafa-xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" >
-  <img align="center" alt="Rafa-xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" >
+  <img align="center" alt="Rafa-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" >
+  <img align="center" alt="Rafa-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" >
+  
          
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/OQpsWWn.png">    
 </div>
