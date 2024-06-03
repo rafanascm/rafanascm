@@ -1,5 +1,5 @@
 
-<h2 align="center"> Olá! Eu sou Rafaela Nascimento. 👋 <br> Estou no último semestre de análise e desenvolvimento de sistemas (FIAP) com foco em desenvolvimento Front End! Atualmente atuo como estagiária em banco de dados na BravoGRC!   </h2> 
+<h2 align="center"> Olá! Eu sou Rafaela Nascimento. 👋 <br> formada em análise e desenvolvimento de sistemas (FIAP) com foco em desenvolvimento Front End! Atualmente atuo desenvolvedora front end JR na empresa Ambipar!   </h2> 
 
 <div align="center">
   <a href="https://github.com/rafanascm">
